@@ -1,5 +1,7 @@
 一个基于Activiti5.13和Bootstrap3.0.3的请假流程
 
+本项目修改于https://github.com/burgleaf/activiti-demo
+
 运行环境
 
 1. 数据库：MySQL 5.5
