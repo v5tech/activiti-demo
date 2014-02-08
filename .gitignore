@@ -3,3 +3,10 @@
 /*.classpath
 /*.buildpath
 /.settings
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
