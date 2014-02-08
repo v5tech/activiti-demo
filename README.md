@@ -13,5 +13,6 @@
 4. 配置 Tomcat，并运行该应用。
 5. 可参照http://www.burgleaf.com/archives/207 
 
+![src/main/resources/snapshots/login.png](src/main/resources/snapshots/login.png)
 
-----------------------------------------------------------------------
+![src/main/resources/snapshots/main.png](src/main/resources/snapshots/main.png)
