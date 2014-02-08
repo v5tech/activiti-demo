@@ -10,4 +10,3 @@
 *.jar
 *.war
 *.ear
-/src/test/java/*.gitkeep
