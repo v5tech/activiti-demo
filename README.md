@@ -18,3 +18,6 @@
 ![src/main/resources/snapshots/login.png](src/main/resources/snapshots/login.png)
 
 ![src/main/resources/snapshots/main.png](src/main/resources/snapshots/main.png)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sxyx2008/activiti-demo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
